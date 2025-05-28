@@ -14,4 +14,5 @@ Welcome, this project traces the evolution of ectogenesis exemplified in iterati
 - **2000s–Now**: Speculative Technologies and Ethics
 
 ### Images or visualizations can go here:
-![Example Image](assets/images/womb-diagram.png)
+![Biobag with lamb](assets/images/biobag-lamb.png)
+
