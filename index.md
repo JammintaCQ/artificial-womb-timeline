@@ -13,6 +13,14 @@ Welcome, this project traces the evolution of ectogenesis exemplified in iterati
 - **1970s–90s**: Feminist Reproductive Critique  
 - **2000s–Now**: Speculative Technologies and Ethics
 
+## <a id="1920s-40s"></a>1920s–1940s: Vitalism to Mechanism
+
+## <a id="1940s-60s"></a>1940s-60s: Cybernetics and Information Theory 
+
+## <a id="1970s-90s"></a>1970s-90s: Feminist Reproductive Technique
+
+## <a id="2000s-now"></a>2000s-now: Speculative Technologies and Ethics
+
 ### Images or visualizations can go here:
 ![Biobag with lamb](assets/images/biobag-lamb.png)
 
