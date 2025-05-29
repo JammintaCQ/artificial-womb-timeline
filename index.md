@@ -21,6 +21,14 @@ Welcome, this project traces the evolution of ectogenesis exemplified in iterati
 
 ## <a id="2000s-now"></a>2000s-now: Speculative Technologies and Ethics
 
+## Timeline Navigation
+
+- [Vitalism to Mechanism](#1920s-40s)
+- [Cybernetics and Control](#1940s-60s)
+- [Feminist Critique](#1970s-90s)
+- [Speculative Futures](#2000s-now)
+
+
 ### Images or visualizations can go here:
 ![Biobag with lamb](assets/images/biobag-lamb.png)
 
